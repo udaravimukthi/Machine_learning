@@ -3,7 +3,8 @@
 # Mathematical tools library
 import numpy as np
 
-#to plot graphs
+#to plot graph
+
 
 import matplotlib.pyplot as pt
 
