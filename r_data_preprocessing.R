@@ -8,4 +8,4 @@ mydataset$Income = ifelse(is.na(mydataset$Income),ave(mydataset$Income, FUN = fu
   mean(x,na.rm =TRUE)),
   mydataset$Income)
 
-  
+  # added
