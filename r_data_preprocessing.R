@@ -9,3 +9,4 @@ mydataset$Income = ifelse(is.na(mydataset$Income),ave(mydataset$Income, FUN = fu
   mydataset$Income)
 
   # added
+  
