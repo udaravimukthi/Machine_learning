@@ -18,7 +18,7 @@ X_independent = mydataset.iloc[:,:-1].values
 
 Y_dependent = mydataset.iloc[:,3].values
 
-#from sklearn.preprocessing import Impute
+#from sklearn.preprocessing import Impute`1234567
 #imputerVariable = Imputer(missing_values = 'NaN',
                       #    strategy = 'mean',
                          # axis = 0)
